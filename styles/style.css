@@ -1,6 +1,6 @@
 body {
-    background-color: green;
-    color: black;
+    background-color: black;
+    color: rgb(33, 110, 29);
     flex-direction: column;
     font-size: large;
 }
@@ -12,3 +12,14 @@ body {
 .hidden{
     display: none;
 }
+
+button {
+    /* border-radius: 2em; */
+    background-color: rgb(33, 110, 29);
+    border-style: none;
+    margin: .3em;
+}
+
+/* p {
+    margin-bottom: 2em;
+} */
